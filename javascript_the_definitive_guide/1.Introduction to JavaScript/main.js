@@ -1,4 +1,8 @@
 console.log(111, 222, 333) // Console.log 同时输出多个值，用于区分
+
+const name = 'Will Robinson';
+console.warn(`Danger ${name}! Danger!`);
+
 x = "hello world"; // Strings of text in quotation marks.
 x = 'JavaScript'; // Single quote marks also delimit
 
