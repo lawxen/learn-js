@@ -34,7 +34,7 @@ Math.pow(3, 1 / 3) // => 3**(1/3): the cube root of 3
 Math.sin(0) // Trigonometry: also Math.cos, Math.atan, etc. 
 Math.log(10) // Natural logarithm of 10 
 Math.log(100) / Math.LN10 // Base 10 logarithm of 100 
-Math.log(512) / Math.LN2 // Base 2 logarithm of 512 
+Math.log(512) / Math.LN2 // Base 2 logarithm of 512 types-values-variables
 Math.exp(3) // Math.E cubed
 
 /** ES6 defines more functions on the Math object:  */
